@@ -9,6 +9,8 @@ List module: NLPHub Nền tảng Xử lý Ngôn ngữ Tự nhiên Đa Chức nă
 7) Kiểm tra mức độ đạo văn
 8) Tạo trích dẫn
 9) Làm toán (80%)
-10) Bảo mật: kiểm tra mật khẩu, link độc hại,...
+10) Bảo mật: 
+    10.1) Kiểm tra mật khẩu (80%)
+    10.2) Lnk độc hại
 11) Tìm kiếm thông tin
 12) Tra từ điển
